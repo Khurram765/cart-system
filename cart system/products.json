@@ -1,0 +1,59 @@
+[
+    {
+        "name" : "Zinger",
+        "price" : "30$",
+        "id" : 0,
+        "count" : 1,
+        "src" : "./images/burger.jpeg"
+    },   
+    {
+        "name" : "Tikka",
+        "price" : "25$",
+        "id" : 1,
+        "count" : 1,
+        "src" : "./images/tikka.jpeg"
+    }, 
+    {
+        "name" : "Pizza",
+        "price" : "35$",
+        "id" : 2,
+        "count" : 1,
+        "src" : "./images/pizza.jpeg"
+    }, 
+    {
+        "name" : "Broast",
+        "price" : "32$",
+        "id" : 3,
+        "count" : 1,
+        "src" : "./images/broast.jpeg"
+    }, 
+    {
+        "name" : "Club Sandwich",
+        "price" : "34$",
+        "id" : 4,
+        "count" : 1,
+        "src" : "./images/sandwich.jpeg"
+    }, 
+    {
+        "name" : "Seekh Kabab",
+        "price" : "28$",
+        "id" : 5,
+        "count" : 1,
+        "src" : "./images/kabab.jpeg"
+    }, 
+    {
+        "name" : "Chicken Roll",
+        "price" : "26$",
+        "id" : 6,
+        "count" : 1,
+        "src" : "./images/chickenroll.jpeg"
+    },
+    {
+        "name" : "Chapli Kabab",
+        "price" : "24$",
+        "id" : 7,
+        "count" : 1,
+        "src" : "./images/chapli.jpeg"
+    }
+
+]
